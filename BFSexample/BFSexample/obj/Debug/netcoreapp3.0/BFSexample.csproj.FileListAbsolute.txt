@@ -1,0 +1,11 @@
+/Users/tanvir/Projects/BFSexample/BFSexample/bin/Debug/netcoreapp3.0/BFSexample
+/Users/tanvir/Projects/BFSexample/BFSexample/bin/Debug/netcoreapp3.0/BFSexample.deps.json
+/Users/tanvir/Projects/BFSexample/BFSexample/bin/Debug/netcoreapp3.0/BFSexample.runtimeconfig.json
+/Users/tanvir/Projects/BFSexample/BFSexample/bin/Debug/netcoreapp3.0/BFSexample.runtimeconfig.dev.json
+/Users/tanvir/Projects/BFSexample/BFSexample/bin/Debug/netcoreapp3.0/BFSexample.dll
+/Users/tanvir/Projects/BFSexample/BFSexample/bin/Debug/netcoreapp3.0/BFSexample.pdb
+/Users/tanvir/Projects/BFSexample/BFSexample/obj/Debug/netcoreapp3.0/BFSexample.csprojAssemblyReference.cache
+/Users/tanvir/Projects/BFSexample/BFSexample/obj/Debug/netcoreapp3.0/BFSexample.AssemblyInfoInputs.cache
+/Users/tanvir/Projects/BFSexample/BFSexample/obj/Debug/netcoreapp3.0/BFSexample.AssemblyInfo.cs
+/Users/tanvir/Projects/BFSexample/BFSexample/obj/Debug/netcoreapp3.0/BFSexample.dll
+/Users/tanvir/Projects/BFSexample/BFSexample/obj/Debug/netcoreapp3.0/BFSexample.pdb
